@@ -1,3 +1,15 @@
-/* 
-    General Styles
-*/
+.imagen {
+  display: flex;
+  border: solid 0.1px;
+  width: 1000px;
+  height: 150px;
+  margin-left: 200px;
+  
+}
+
+.container {
+    margin: auto;
+ 
+    
+  display: inline-block;
+}
